@@ -1,0 +1,3 @@
+income_category,records,average_age,average_weekly_hours,average_capital_gain
+<=50K,37155,36.87,38.84,147.01
+>50K,11687,44.28,45.45,4042.24
